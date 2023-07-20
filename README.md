@@ -22,8 +22,8 @@ The primary objective of this project is to showcase the power of SQL in queryin
 To get started with this project, follow these steps:
 
 - Clone this repository to your local machine using `git clone`.
-- Import the IPL_matches and IPL_Ball datasets into your SQL environment.
-- Browse through the SQL queries provided in the IPL_CASE.sql file to perform various analyses on the dataset.
+- Import the `IPL_matches` and `IPL_Ball` datasets into your SQL environment.
+- Browse through the SQL queries provided in the `IPL_CASE.sql` file to perform various analyses on the dataset.
 
 ## 🤝 Contribution:
 
